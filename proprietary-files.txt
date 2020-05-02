@@ -1,0 +1,17 @@
+# Camera-configs
+vendor/lib/camera/com.qti.sensor.pyxis_imx582.so
+vendor/lib/camera/com.qti.sensor.pyxis_imx586.so
+vendor/lib/camera/com.qti.sensormodule.pyxis_luxvisions_imx582_cn_i.bin
+vendor/lib/camera/com.qti.sensormodule.pyxis_luxvisions_imx586_cn_i.bin
+vendor/lib/camera/com.qti.sensormodule.pyxis_ofilm_imx582_cn_ii.bin
+vendor/lib/camera/com.qti.tuned.pyxis_luxvisions_imx582_cn_i.bin
+vendor/lib/camera/com.qti.tuned.pyxis_luxvisions_imx586_cn_i.bin
+vendor/lib/camera/com.qti.tuned.pyxis_ofilm_imx582_cn_ii.bin
+vendor/lib/camera/com.qti.tuned.pyxis_ofilm_s5kgd1_cn_ii_global.bin
+vendor/lib/camera/com.qti.tuned.pyxis_sunny_s5kgd1_cn_i_global.bin
+vendor/lib/libmibokeh_712.so
+vendor/lib/mibokeh_712_opencl.bin
+vendor/lib64/libmibokeh_712.so
+
+# Display
+vendor/etc/dsi_ss_ea8076_fhd_cmd_display_f3b_mi.xml

@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "Pyxis-Development/device_xiaomi_pyxis-common",
+    "target_path": "device/xiaomi/pyxis-common",
+    "branch":      "evox"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Pyxis-Development/vendor_xiaomi_pyxis",
+    "target_path": "vendor/xiaomi/pyxis",
+    "branch":      "evox"
+  }
+]
